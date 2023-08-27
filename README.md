@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emmanuel Idowu (Emmygreat)
-- 👀 I’m interested in React.Js, Javascript
+- 👀 I’m interested in TypeScript, React.Js, Next.Js and Javascript
 - 💞️ I’m looking to collaborate on any frontend project
 - 📫 How to reach me idowuemmao@gmail.com 
 
