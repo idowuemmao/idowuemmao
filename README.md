@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Emmanuel Idowu (Emmygreat)
-- 👀 I’m interested in TypeScript, React.Js, Next.Js and Javascript
-- 💞️ I’m looking to collaborate on any frontend project
+- 📊I'm a Data Analyst, Business Intelligence Analyst and Power BI Developer
+- 📈 I’m interested in Microsoft Excel, SQL, Power BI, Tableau
+- 💞️ I’m looking to collaborate on any Data Project
 - 📫 How to reach me idowuemmao@gmail.com 
 
 <!---
