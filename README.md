@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Emmanuel Idowu
 - 📊I'm a Data Analyst, Business Intelligence Analyst and Power BI Specialist
+- Founder of [Manifest Data](https://www.linkedin.com/company/manifestdata)
 - 📈 I’m specialized in Microsoft Excel, SQL, Power BI, Python
 - 💞️ I’m looking to collaborate on any Data Project
 - 📫 How to reach me [Email](idowuemmao@gmail.com)
